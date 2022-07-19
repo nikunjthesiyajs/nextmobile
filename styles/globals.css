@@ -22,10 +22,6 @@ body {
 }
 
 @layer components {
-	.btn-primary {
-		@apply bg-blue-600 w-full text-white p-3 rounded-lg border border-transparent hover:border-blue-600 hover:bg-blue-50 hover:text-blue-600 transition ease-in-out;
-	}
-
 	.btn-header {
 		@apply bg-white text-[#0BCE63] flex items-center justify-center w-[70px] h-9;
 	}
