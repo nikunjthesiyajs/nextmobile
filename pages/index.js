@@ -151,7 +151,7 @@ export default function Home() {
 		<div className="w-full bg-slate-100 flex items-center justify-center">
 			<Head>
 				<title>Quiz</title>
-				<meta name="description" content="Sign Up Page of NextMobile" />
+				<meta name="description" content="Play Quiz" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<div className="flex flex-col items-center w-full sm:w-[390px] min-h-screen bg-[#0BCE63] pb-6 py-4">
