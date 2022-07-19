@@ -166,7 +166,7 @@ export default function Home() {
 									className={
 										question === item.id
 											? "bg-white w-9 h-9 rounded-full text-sm font-medium flex items-center justify-center shadow-xl cursor-pointer"
-											: " w-9 h-9 rounded-full text-sm font-bold flex items-center justify-center cursor-pointer"
+											: " w-9 h-9 rounded-full text-sm font-medium flex items-center justify-center cursor-pointer"
 									}
 									onClick={() => setQuestion(item.id)}
 								>
